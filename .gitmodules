@@ -1,0 +1,3 @@
+[submodule "child"]
+	path = child
+	url = https://github.com/infohojin/gitstudy_child.git
